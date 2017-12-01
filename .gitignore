@@ -54,12 +54,3 @@ freeline.py
 freeline/
 freeline_project_description.json
 .gitignore_old
-.idea/
-app/
-architecture/
-build.gradle
-gradle.properties
-gradle/
-gradlew
-gradlew.bat
-settings.gradle
