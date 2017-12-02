@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android-mvp-architecture/architecture.iml" filepath="$PROJECT_DIR$/android-mvp-architecture/architecture.iml" />
-      <module fileurl="file://$PROJECT_DIR$/androidarchitecture.iml" filepath="$PROJECT_DIR$/androidarchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-mvp-architecture.iml" filepath="$PROJECT_DIR$/android-mvp-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-mvp-architecture/android-mvp-architecture-android-mvp-architecture.iml" filepath="$PROJECT_DIR$/android-mvp-architecture/android-mvp-architecture-android-mvp-architecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
