@@ -14,7 +14,7 @@ ext {
   siteUrl = 'https://github.com/vishrayne/android-mvp-architecture'
   gitUrl = 'https://github.com/vishrayne/android-mvp-architecture.git'
 
-  libraryVersion = '0.0.2'
+  libraryVersion = '0.1.0'
 
   developerId = 'vishrayne'
   developerName = 'Vishnu Ravi'
