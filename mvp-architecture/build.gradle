@@ -7,14 +7,14 @@ ext {
 
   publishedGroupId = 'in.vishrayne'
   libraryName = 'MVPArchitecture'
-  artifact = 'android-mvp-architecture'
+  artifact = 'mvp-architecture'
 
   libraryDescription = 'A minimal MVP architecture for android applications'
 
   siteUrl = 'https://github.com/vishrayne/android-mvp-architecture'
   gitUrl = 'https://github.com/vishrayne/android-mvp-architecture.git'
 
-  libraryVersion = '0.0.1'
+  libraryVersion = '0.0.2'
 
   developerId = 'vishrayne'
   developerName = 'Vishnu Ravi'
