@@ -3,9 +3,15 @@
 
 A minimal MVP architecture helper for android applications. This is inspired by a lot of awesome open source libraries out there and I'm tired of carrying/copying this around all of my projects.
 
-## installation
+## Installation
 
 ```gradle
+repositories {
+    maven {
+        url 'https://dl.bintray.com/vishrayne/maven/'
+    }
+}
+ 
 dependencies {
   compile 'in.vishrayne:mvp-architecture:0.1.0'
 }
